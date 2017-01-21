@@ -6,6 +6,6 @@ Required software:
 - Matlab OR Octave (for writing code)
 
 Instructions:
-1. Unzip the attached file.
-2. For each chapter, view the PDF guide for the exercise details.
+1. Unzip file for each chapter.
+2. View the PDF guide for the exercise details.
 3. Open the source files in the development tool you are using. Run the exN.m file from the IDE (where N is the chapter number).
